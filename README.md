@@ -1,0 +1,1 @@
+The folder contains the html codes for a pet shop that contains the pictures of 6 animals to be chosen by customers and one video of a pet. The folder also contains the html code for the pet store contact information and receiving customers feedback and inquires.  
